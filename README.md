@@ -1,6 +1,7 @@
 # Machine-Learning-Project-Macquarie-University
 
 Introduction
+
 In the major project, you will be working with a specified dataset of images.  
 You will then explore the data and try the statistical learning approaches that we have covered in this course to tackle the task associated with the dataset.  
 The statistical approaches should cover both conventional machine learning (i.e. not deep learning), from the first half of the unit, and deep learning from the second half.  Which methods you choose are (mostly) entirely up to you;
