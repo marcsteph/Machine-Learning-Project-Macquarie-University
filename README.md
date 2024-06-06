@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Macquarie-University
+# Classification of Living things 
 
 Introduction
 
